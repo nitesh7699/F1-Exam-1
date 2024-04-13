@@ -1,0 +1,36 @@
+*{
+    background-color: white;
+
+}
+
+h1,p,img{
+    margin:5px;
+    margin-top: 10px;
+}
+
+.firstDiv{
+    height: 250px;
+    width: 600px;
+    color: black;
+    border:1px solid black;
+    margin:5px;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: underline;
+    color:inherit;
+    margin:5px;
+}
+
+img{
+    height: 300px;
+    width:450px;
+}
+
+.thirdDiv{
+    /* border:1px solid black; */
+}
+
+p>beagle{
+    color:brown
+}
